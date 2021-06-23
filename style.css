@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+
+}
+
+nav {
+    background-color: red;
+}
+main {
+    background-color: red;
+}
+h1 {
+    color: white;
+}
+a {
+    color:black;
+}
